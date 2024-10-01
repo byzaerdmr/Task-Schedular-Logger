@@ -1,0 +1,47 @@
+Task added: Task-2
+Task Name: Task-2
+Task ID: \Task-2
+Created by: DESKTOP-8JENSVE\Beyza
+Creation Date: 2024-09-13T09:51:23.1042142
+
+Task modified: Task-1
+Modified at: 2024/9/13 9:52:7
+Task Name: Task-1
+Task ID: \Task-1
+Created by: DESKTOP-8JENSVE\Beyza
+Creation Date: 2024-09-13T09:50:34.4492174
+
+Task added: Task-3
+Task Name: Task-3
+Task ID: \Task-3
+Created by: DESKTOP-8JENSVE\Beyza
+Creation Date: 2024-09-13T09:52:29.8473254
+
+Task modified: Task-2
+Modified at: 2024/9/13 9:52:52
+Task Name: Task-2
+Task ID: \Task-2
+Created by: DESKTOP-8JENSVE\Beyza
+Creation Date: 2024-09-13T09:51:23.1042142
+
+Task deleted: Task-1
+Deleted at: 2024/9/13 9:53:11
+Task Name: Task-1
+Task ID: \Task-1
+Created by: DESKTOP-8JENSVE\Beyza
+Creation Date: 2024-09-13T09:50:34.4492174
+
+Task deleted: Task-2
+Deleted at: 2024/9/13 9:54:34
+Task Name: Task-2
+Task ID: \Task-2
+Created by: DESKTOP-8JENSVE\Beyza
+Creation Date: 2024-09-13T09:51:23.1042142
+
+Task deleted: Task-3
+Deleted at: 2024/9/13 9:55:19
+Task Name: Task-3
+Task ID: \Task-3
+Created by: DESKTOP-8JENSVE\Beyza
+Creation Date: 2024-09-13T09:52:29.8473254
+

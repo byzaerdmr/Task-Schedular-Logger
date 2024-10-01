@@ -1,0 +1,7 @@
+.vs/
+git add .gitignore
+git commit -m "Added .vs/ to .gitignore"
+
+
+.vs/
+*.ipch
